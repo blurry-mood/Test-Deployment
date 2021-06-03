@@ -3,6 +3,7 @@
 ### Steps:
 > * npm install -g serverless
 > * serverless
+> * cd {folder}
 > * \# change the serverless.yml according to your requirements
 > * serverless deploy -v
 > * sls deploy
